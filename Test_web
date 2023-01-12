@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    <meta charst="utf-8">
+    <title>William Personal Site</title>
+    </head>
+    
+    <body>
+    <div data-poster-url="https://global-uploads.webflow.com/613a860b6005a3bcb87aca81/623b6f739362642d2b83c3f7_bethel-hero-bg.jpg" data-video-urls="https://bethel.sfo3.cdn.digitaloceanspaces.com/site/video/bethel-home-hero.mp4,https://bethel.sfo3.cdn.digitaloceanspaces.com/site/video/bethel-home-hero.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="hero-background-video w-background-video w-background-video-atom">
+    
+</div>
+  </body>
